@@ -1,7 +1,7 @@
 # Emotion Based Music Recommendation
 
 ## Project Description
-The Emotion Based Music Recommendation project aims to provide a personalized music experience by detecting the user's emotions through a live video feed and recommending songs that match the detected emotion. The application leverages computer vision, machine learning, and Spotify's music library to deliver a seamless and engaging experience.
+The Emotion Based Music Recommendation project aims to provide a personalized music experience by detecting the user's emotions through a live video feed and recommending songs that match the detected emotion. The application leverages computer vision, machine learning to deliver a seamless and engaging experience.
 
 ## Table of Contents
 1. [Architecture](#architecture)
@@ -13,10 +13,10 @@ The Emotion Based Music Recommendation project aims to provide a personalized mu
 ## Architecture
 The application is structured into the following layers:
 
-1. **Presentation Layer**: 
-2. **Processing Layer**:
-3. **Backend Layer**:
-4. **Music Recommendation Layer**:
+1. **Presentation Layer**
+2. **Processing Layer**
+3. **Backend Layer**
+4. **Music Recommendation Layer**
 
 ## Features
 - **Real-time Emotion Detection**: Uses webcam feed to detect user emotions in real-time.
